@@ -7,3 +7,8 @@
 --|--|--
 4（左）	|	5	|	6（右）
 1	|	2（下）	|	3
+
+游戏截图：
+![](./screenShots/snake1.png)
+![](./screenShots/snake2.png)
+![](./screenShots/snake3.png)
